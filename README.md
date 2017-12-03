@@ -5,6 +5,8 @@ Some Python programs to interact with "old" Texas Instrument calculators.
 I just love those machines that made me discover programming, and find it
 awesome to be able to make them communicate with modern devices.
 
+Pull requests welcome!
+
 * `TI83_screenshot.py`: screenshots from a TI83+/TI84+ in realtime
 
 

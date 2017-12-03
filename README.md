@@ -12,7 +12,7 @@ Pull requests welcome!
 
 ## Install
 
-    sudo pip install --upgrade pyusb
+    pip install -r requirements.txt 
     
 ## References for the TI protocol
 
